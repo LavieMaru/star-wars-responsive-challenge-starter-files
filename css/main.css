@@ -1,0 +1,27 @@
+main {
+	padding-top: 100px;
+}
+
+main .row {
+	margin-bottom: 20px;
+
+}
+
+.person {
+	height: auto;
+	text-align: center;
+	padding-top: 30px;
+
+border: 1px solid black;
+}
+
+.person p {
+	text-align: center;
+}
+
+.person img {
+	height: auto;
+	width: 100%;
+}
+/*
+border: 1px solid black;*/
