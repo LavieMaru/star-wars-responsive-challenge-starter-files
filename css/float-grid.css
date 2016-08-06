@@ -13,12 +13,20 @@ main .row {
     margin-right: auto;
 }
 
+header .row {
+	margin-top: 0px;
+}
+
 .row {
     max-width: 1000px;
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 40px;
 }
+
+/*header h2, p {
+	margin-left: 60px;
+}*/
 
 .row .support, .maincast {
 	margin-bottom: 10px;
